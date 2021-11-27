@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FerderFreeClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FerderFreeClient_jar</output-path>
+    <root id="archive" name="FerderFreeClient.jar" />
+  </artifact>
+</component>
